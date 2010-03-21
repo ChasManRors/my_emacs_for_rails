@@ -1,0 +1,5 @@
+#name : <% form_for @survey do |f| %>
+#group : builder (ffb)
+# --
+<% form_for ${@survey} do |f| %>
+$0

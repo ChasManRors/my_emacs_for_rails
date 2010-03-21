@@ -1,0 +1,4 @@
+#name : redirect_to :controller => " ... ", :action => " ... ", :id =>  ...
+#group : redirect (rdr)
+# --
+redirect_to :controller => "${items}", :action => "${show}", :id => ${@item}

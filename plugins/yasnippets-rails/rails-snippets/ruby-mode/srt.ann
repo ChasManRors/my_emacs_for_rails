@@ -1,0 +1,4 @@
+#name : assert_not_nil  ...
+#group : assert (srt)
+# --
+assert_not_nil ${object}

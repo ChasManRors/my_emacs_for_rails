@@ -1,0 +1,5 @@
+#name : <%= builder.check_box :_destroy -%>
+#group : builder (ffb)
+# --
+ <%= builder.check_box :_destroy -%>
+$0

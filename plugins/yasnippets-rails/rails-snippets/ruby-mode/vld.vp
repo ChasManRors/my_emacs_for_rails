@@ -1,0 +1,4 @@
+#name : validates_presence_of : ...
+# group : validate (vld)
+# --
+validates_presence_of :${attr}

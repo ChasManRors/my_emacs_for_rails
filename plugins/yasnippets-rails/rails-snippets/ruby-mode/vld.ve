@@ -1,0 +1,4 @@
+#name : validates_exclusion_of : ...
+# group : validate (vld)
+# --
+validates_exclusion_of :${attr}

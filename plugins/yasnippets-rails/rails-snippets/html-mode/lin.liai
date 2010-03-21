@@ -1,0 +1,4 @@
+#name : <%= link_to " ... ", :action => " ... ", :id =>  ...  %>
+#group : link_to(lin)
+# --
+<%= link_to "${title}", :action => "${edit}", :id => ${@item} %>$0

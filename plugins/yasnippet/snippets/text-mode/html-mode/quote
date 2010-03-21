@@ -1,5 +1,6 @@
 #contributor : Jimmy Wu <frozenthrone88@gmail.com>
 #name : <blockquote>...</blockquote>
+#group : block
 # --
 <blockquote>
   $1

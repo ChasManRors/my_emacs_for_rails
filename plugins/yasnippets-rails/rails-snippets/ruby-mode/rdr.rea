@@ -1,0 +1,4 @@
+#name : redirect_to :action => " ... "
+#group : redirect (rdr)
+# --
+redirect_to :action => "${index}"

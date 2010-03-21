@@ -1,0 +1,4 @@
+#name : validates_numericality_of : ...
+# group : validate (vld)
+# --
+validates_numericality_of :${attr}

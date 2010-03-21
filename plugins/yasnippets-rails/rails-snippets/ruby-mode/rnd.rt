@@ -1,0 +1,4 @@
+#name : render :text => " ... "
+#group : render (rnd)
+# --
+render :text => "${Text here...}"

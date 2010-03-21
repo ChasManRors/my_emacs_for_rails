@@ -1,0 +1,4 @@
+#name : render :nothing =>  ... , :status =>  ...
+#group : render (rnd)
+# --
+render :nothing => ${true}, :status => ${401}

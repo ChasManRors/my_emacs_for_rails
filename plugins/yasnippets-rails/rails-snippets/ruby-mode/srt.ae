@@ -1,0 +1,4 @@
+#name : assert_equal  ... ,  ...
+#group : assert (srt)
+# --
+assert_equal ${expected}, ${actual}

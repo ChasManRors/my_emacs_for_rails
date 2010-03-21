@@ -1,0 +1,5 @@
+#name : has_many :dep ...
+#group : relational
+# --
+has_many :${answers}, :dependent => :destroy
+$0

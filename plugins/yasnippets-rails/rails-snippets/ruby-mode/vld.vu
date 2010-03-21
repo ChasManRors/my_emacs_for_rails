@@ -1,0 +1,4 @@
+#name : validates_uniqueness_of : ...
+# group : validate (vld)
+# --
+validates_uniqueness_of :${attr}

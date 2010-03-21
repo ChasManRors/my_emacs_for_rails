@@ -1,0 +1,5 @@
+#name : <%= builder.label :content, "Question" %> <br/>
+#group : builder (ffb)
+# --
+<%= builder.label :content, ${"Question"} %> <br/>
+$0

@@ -1,0 +1,4 @@
+#name : render :partial => " ... ", :status =>  ...
+#group : render (rnd)
+# --
+render :partial => "${item}", :status => ${500}

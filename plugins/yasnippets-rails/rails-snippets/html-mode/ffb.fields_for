@@ -1,0 +1,5 @@
+#name : <%  f.fields_for :questions do |builder| %>
+#group : builder (ffb)
+# --
+<%  f.fields_for ${:questions} do |builder| %>
+$0

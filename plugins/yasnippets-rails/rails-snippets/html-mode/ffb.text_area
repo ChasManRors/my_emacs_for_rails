@@ -1,0 +1,5 @@
+#name : <%= builder.text_area :content, :rows => 3 %>
+#group : builder (ffb)
+# --
+<%= builder.text_area :content, :rows => ${3} %>
+$0

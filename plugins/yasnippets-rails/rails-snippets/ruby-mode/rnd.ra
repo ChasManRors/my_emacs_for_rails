@@ -1,0 +1,4 @@
+#name : render :action => " ... "
+#group : render (rnd)
+# --
+render :action => "${action}"
